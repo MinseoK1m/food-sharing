@@ -32,6 +32,11 @@
 
 ![image](https://github.com/MinseoK1m/food-sharing/assets/138808284/03be361f-ab35-4cb3-9819-9c9f039b4a72)
 
+* ERD
+
+![image](https://github.com/MinseoK1m/food-sharing/assets/138808284/52c655cf-9d80-4224-b335-45450335ba63)
+
+
 * SW 주요 기능
 
   
