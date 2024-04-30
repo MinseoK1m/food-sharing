@@ -3,6 +3,12 @@
 * [🎬Youtube 링크🎬](https://youtu.be/o3GsTX4JVY4?si=fFSOrZmdRMNxyKwv)
 * 23.06.12~23.09.16
 * 개발 인원 : HW - 2명, SW - 3명
+* 사용 기술
+  * AWS EC2
+  * AndroidStudio(Java)
+  * php
+  * MySQL
+  * phpMyAdmin
 * 나의 역할
   * 게시판, 마이페이지 개발
   * DB 설계, 연동
